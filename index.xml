@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Controlled Chaos Blog</title>
-    <link>https://lalithnayan.com/</link>
+    <link>https://trip9.github.io/lalithnayan.com/</link>
     <description>Recent content on The Controlled Chaos Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 14:19:51 -0800</lastBuildDate><atom:link href="https://lalithnayan.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 14:19:51 -0800</lastBuildDate><atom:link href="https://trip9.github.io/lalithnayan.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Happy New Year</title>
-      <link>https://lalithnayan.com/posts/mypost/</link>
+      <link>https://trip9.github.io/lalithnayan.com/posts/mypost/</link>
       <pubDate>Thu, 19 Jan 2023 14:19:51 -0800</pubDate>
       
-      <guid>https://lalithnayan.com/posts/mypost/</guid>
+      <guid>https://trip9.github.io/lalithnayan.com/posts/mypost/</guid>
       <description>Welcome to 2023!!!!</description>
     </item>
     

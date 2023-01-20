@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/trip9/trip9.github.io.git
+	branch = main

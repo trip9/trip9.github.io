@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Controlled Chaos Blog</title>
+    <link>https://trip9.github.io/post/</link>
+    <description>Recent content in Posts on The Controlled Chaos Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2023 14:19:51 -0800</lastBuildDate><atom:link href="https://trip9.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy New Year</title>
+      <link>https://trip9.github.io/post/mypost/</link>
+      <pubDate>Thu, 19 Jan 2023 14:19:51 -0800</pubDate>
+      
+      <guid>https://trip9.github.io/post/mypost/</guid>
+      <description>Welcome to 2023!!!!</description>
+    </item>
+    
+  </channel>
+</rss>
